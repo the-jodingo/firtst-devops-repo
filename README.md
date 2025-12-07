@@ -1,3 +1,2 @@
 # firtst-devops-repo
-First Devops
-Creating a sample dev ops fetch push repo
+First of many repos to be created. Had a great time learning the basics of github.
